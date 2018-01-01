@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple RecyclerView</string>
+    <string name="brand">Marke</string>
+    <string name="model">Modell/Typ</string>
+    <string name="image_of_vehicle">image of vehicle</string>
+</resources>
